@@ -1,0 +1,2 @@
+<?php
+$MESS["ANYTHING_CONTENT_TOP_SEARCH_TITLE"]="Запасные части #NAME#";
