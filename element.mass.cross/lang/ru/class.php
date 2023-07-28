@@ -1,0 +1,11 @@
+<?php if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die();
+$MESS['ELEMENT_MASS_CROSS_DENIED']='Не хватает прав на выполнение операции';
+$MESS['ELEMENT_MASS_CROSS_HEADERS_PRODUCT_ID']="ИД продукта";
+$MESS['ELEMENT_MASS_CROSS_HEADERS_PRODUCT_NAME']="Название продукта";
+$MESS['ELEMENT_MASS_CROSS_HEADERS_SORT']="Сортировка";
+$MESS['ELEMENT_MASS_CROSS_HEADERS_VENDOR']="Производитель";
+$MESS['ELEMENT_MASS_CROSS_HEADERS_CODE']="Код";
+$MESS['ELEMENT_MASS_CROSS_HEADERS_OEM']="ОЕМ";
+$MESS['ELEMENT_MASS_CROSS_FILE_NOT_LOADED']="Файл не загружен";
+$MESS['ELEMENT_MASS_CROSS_HAVE_NOT_ACTIVE_PRODUCTS']="В каталоге нет активных продуктов, для добавления кросс-листов";
+$MESS['ELEMENT_MASS_CROSS_NO_ROWS']="Элементов для изменения не найдено";
